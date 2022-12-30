@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pentesting and Back End Dev**
 
-- 👨‍💻 All of my projects are available at [ramenaru.netlify.app](ramenaru.netlify.app)
+- 👨‍💻 All of my projects 'will' available at [ramenaru.netlify.app](ramenaru.netlify.app)
 
 - 📫 How to reach me **ramzieinstein00@gmail.com**
 
