@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ramenaru</h1>
+<h1 align="center">Whats'up Coders 👋, I'm Ramenaru</h1>
 <h3 align="center">a 'just do it' programmer, and pentester</h3>
 
 - 🌱 I’m currently learning **Pentesting and Back End Dev**
