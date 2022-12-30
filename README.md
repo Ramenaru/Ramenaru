@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ramenaru</h1>
-<h3 align="center">an just do it programmer, and pentester</h3>
+<h3 align="center">a 'just do it' programmer, and pentester</h3>
 
 - 🌱 I’m currently learning **Pentesting and Back End Dev**
 
