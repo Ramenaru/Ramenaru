@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Pentesting and Back End Dev**
 
-- 👨‍💻 Other Projects at [ramenaru.netlify.app](ramenaru.netlify.app)
-
 - 📫 How to reach me **ramzieinstein00@gmail.com**
 
 - ⚡ Fun fact **i'm sleepers :3**
