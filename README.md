@@ -29,6 +29,9 @@ i wish i can be better for this year or next year. I want to be a 'Geek Develope
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <br />
 
+---
+#
+
 ### 📊 Stats
 
 ![Ramenaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramenaru&show_icons=true&theme=gruvbox)
