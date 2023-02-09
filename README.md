@@ -11,7 +11,6 @@ i wish i can be better for this year or next year. I want to be a 'Geek Develope
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ramenaru?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
----
 #
 
 ### 🤖 Languages and Tools
