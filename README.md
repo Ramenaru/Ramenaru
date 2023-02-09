@@ -35,7 +35,7 @@ i wish i can be better for this year or next year. I want to be a 'Geek Develope
 
 ### 📊 Stats
 
-![Ramenaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramenaru&show_icons=true&theme=gruvbox)
+![Ramenaru's GitHub stats](hhttps://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramenaru&&show_icons=true&theme=dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ramenaru&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramenaru&&show_icons=true&theme=dark) -->
 
