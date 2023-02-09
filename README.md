@@ -37,6 +37,5 @@ i wish i can be better for this year or next year. I want to be a 'Geek Develope
 
 [![Ramenaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramenaru)](https://github.com/Ramenaru/github-readme-stats)
 ---
-#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramenaru&layout=compact)](https://github.com/Ramenaru/github-readme-stats)
 
