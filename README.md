@@ -32,9 +32,3 @@ i wish i can be better for this year or next year. I want to be a 'Super Human'
 ---
 #
 
-### 📊 Stats
-
-[![Ramenaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramenaru&show_icons=true&theme=gruvbox)](https://github.com/Ramenaru/github-readme-stats)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramenaru&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/Ramenaru/github-readme-stats)
-
